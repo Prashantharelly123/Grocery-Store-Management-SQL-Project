@@ -69,7 +69,7 @@ database_schema.sql – Database schema and table design
 
 🔗 GitHub Repository
 
-[GitHub Link](https://github.com/Prashantharelly123/Grocery-Store-Management-SQL-Project)
+[👉 Grocery Store Management System | SQL Project](https://github.com/Prashantharelly123/Grocery-Store-Management-SQL-Project)
 
 
 🏁 Conclusion
